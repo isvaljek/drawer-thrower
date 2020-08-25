@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA Awards Contract for Strategic Research and Analysis, Communications, Exhibits Services</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-strategic-research-and-analysis-communications-exhibits</link>
+ <description>NASA has awarded the Strategic Research and Analysis, Communications, and Exhibits Services (SRACES) contract to Media Fusion LLC of Huntsville, Alabama, to provide comprehensive strategic research and analysis, communications, and exhibits services at the agency’s Marshall Space Flight Center in Huntsville, Alabama.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-strategic-research-and-analysis-communications-exhibits</guid>
+ <pubDate>Fri, 14 Aug 2020 15:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463639</dc:identifier>
+</item>
+ <item> <title>NASA TV to Air Departure of Japanese Cargo Ship from Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-tv-to-air-departure-of-japanese-cargo-ship-from-space-station</link>
+ <description>Eleven years after the launch of the first H-II Transfer cargo vehicle (HTV) to the International Space Station, the Japan Aerospace Exploration Agency’s (JAXA’s) HTV-9 will depart the orbital laboratory Tuesday, Aug. 18, with live coverage beginning at 1:15 p.m. EDT on NASA Television and the agency’s website.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/50097913097_a3e2abfdde_k.jpg?itok=12efEKDn" length="933256" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-tv-to-air-departure-of-japanese-cargo-ship-from-space-station</guid>
+ <pubDate>Thu, 13 Aug 2020 15:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463577</dc:identifier>
+</item>
+ <item> <title>NASA Astronaut Aboard Space Station to Answer Girl Scouts’ Questions</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-aboard-space-station-to-answer-girl-scouts-questions</link>
+ <description>Girl Scouts from across the nation will pose questions next week to NASA astronaut Chris Cassidy aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss063e043823.jpg?itok=JEIzyiPs" length="2724788" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-aboard-space-station-to-answer-girl-scouts-questions</guid>
+ <pubDate>Fri, 07 Aug 2020 16:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463456</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract for Consolidated Information Technology Services</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-consolidated-information-technology-services</link>
+ <description>NASA has selected ASRC Federal Data Solutions (AFDS) Inc. of Beltsville, Maryland, to receive a contract for Ames Consolidated Information Technology Services at the agency&#039;s Ames Research Center in Moffett Field, California.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-consolidated-information-technology-services</guid>
+ <pubDate>Fri, 07 Aug 2020 15:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463455</dc:identifier>
+</item>
+ <item> <title>NASA Awards Laboratory Services Contract</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-laboratory-services-contract</link>
+ <description>NASA has awarded the Laboratory Services contract (LSC) to Alutiiq Essentials Services LLC of Kodiak, Alaska, to provide laboratory services at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and NASA’s Michoud Assembly Facility in New Orleans.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-laboratory-services-contract</guid>
+ <pubDate>Fri, 07 Aug 2020 15:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463454</dc:identifier>
+</item>
+ <item> <title>NASA Administrator Statement on the Passing of Mike Freilich</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-statement-on-the-passing-of-mike-freilich</link>
+ <description>Statement from NASA Administrator Jim Bridenstine on the passing of Mike Freilich, passionate explorer and former director of NASA&#039;s Earth Science Division.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49455708267_72dec3133a_k.jpg?itok=b3180ytE" length="625629" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-statement-on-the-passing-of-mike-freilich</guid>
+ <pubDate>Wed, 05 Aug 2020 11:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463398</dc:identifier>
+</item>
+ <item> <title>NASA Astronaut Aboard Space Station Answers STEM Students’ Questions</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-aboard-space-station-answers-stem-students-questions</link>
+ <description>Students participating in Space Station Explorers STEM programs across the nation will pose questions this week to NASA astronaut Chris Cassidy aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/iss063e040639.jpg?itok=WmM9ZAsf" length="2263011" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-aboard-space-station-answers-stem-students-questions</guid>
+ <pubDate>Wed, 05 Aug 2020 10:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463381</dc:identifier>
+</item>
+ <item> <title>NASA Astronauts to Discuss Historic SpaceX Crew Dragon Test Flight</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronauts-to-discuss-historic-spacex-crew-dragon-test-flight</link>
+ <description>NASA astronauts Robert Behnken and Douglas Hurley will discuss their recently completed SpaceX Demo-2 test flight mission to the International Space Station during a news conference at 4:30 p.m. EDT Tuesday, Aug. 4.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/50182385066_d1ff8f191c_k_0.jpg?itok=sRRo7-yf" length="602754" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronauts-to-discuss-historic-spacex-crew-dragon-test-flight</guid>
+ <pubDate>Mon, 03 Aug 2020 14:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463319</dc:identifier>
+</item>
+ <item> <title>NASA Astronauts Safely Splash Down after First Commercial Crew Flight to Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronauts-safely-splash-down-after-first-commercial-crew-flight-to-space-station</link>
+ <description>Two NASA astronauts splashed down safely in the Gulf of Mexico Sunday for the first time in a commercially built and operated American crew spacecraft, returning from the International Space Station to complete a test flight that marks a new era in human spaceflight.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nhq202008020016.jpg?itok=jH6eP0Sy" length="1939138" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronauts-safely-splash-down-after-first-commercial-crew-flight-to-space-station</guid>
+ <pubDate>Sun, 02 Aug 2020 16:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463292</dc:identifier>
+</item>
+ <item> <title>NASA Broadcasts First Splashdown of American Astronauts in 45 Years</title>
+ <link>http://www.nasa.gov/press-release/nasa-broadcasts-first-splashdown-of-american-astronauts-in-45-years</link>
+ <description>NASA is broadcasting the return of the agency’s SpaceX Demo-2 test flight with NASA astronauts Robert Behnken and Douglas Hurley from the International Space Station – the first splashdown of an American crew spacecraft in 45 years.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49967417433_9e8c9d279a_k_0.jpg?itok=pVyiDIIF" length="674916" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-broadcasts-first-splashdown-of-american-astronauts-in-45-years</guid>
+ <pubDate>Sun, 02 Aug 2020 13:06 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>463290</dc:identifier>
+</item>
+</channel>
+</rss>
